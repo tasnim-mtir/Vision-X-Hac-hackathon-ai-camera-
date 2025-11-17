@@ -93,12 +93,7 @@ The system sends instant notifications via the bot **patisserie_waiting_bot** wh
 
 ## 👥 Team
 
-**Razi Ammari • Ikram Meniaoui • Tasnim Mtir • Aya Mekni • Nour Saibi**
+** Tasnim Mtir • Razi Ammari • Ikram Meniaoui  • Aya Mekni • Nour Saibi**
 
 ---
 
-If you want, I can also:
-🔹 Add GitHub badges (build status, tech stack, license)
-🔹 Create a professional project banner with your logo
-🔹 Write installation/setup instructions
-🔹 Prepare a “How it works” diagram for the README
