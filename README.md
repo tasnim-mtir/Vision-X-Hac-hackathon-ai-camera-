@@ -1,6 +1,4 @@
-Here is the **cleanest way to add the ANAVID videos as a “Source” section** in your README, professionally written and properly credited.
 
-I added a new section titled **📚 Source of Video Data** and updated the repo structure to show them clearly as an external source.
 
 ---
 
