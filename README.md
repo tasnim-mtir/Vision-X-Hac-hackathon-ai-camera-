@@ -93,7 +93,7 @@ The system sends instant notifications via the bot **patisserie_waiting_bot** wh
 
 ## 👥 Team
 
-** Tasnim Mtir • Razi Ammari • Ikram Meniaoui  • Aya Mekni • Nour Saibi**
+**Tasnim Mtir • Razi Ammari • Ikram Meniaoui  • Aya Mekni • Nour Saibi**
 
 ---
 
